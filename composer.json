@@ -1,6 +1,7 @@
 {
   "require": {
-    "php": "~8.1",
-    "ext-pdo_sqlite": "*"
+    "php": "^8.1",
+    "ext-pdo_sqlite": "*",
+    "composer-plugin-api": "*"
   }
 }
